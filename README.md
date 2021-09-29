@@ -10,7 +10,7 @@
 7. Image
 8. UITableView
 
-## Tasks ![image](https://user-images.githubusercontent.com/44459664/135349147-f7b9467d-4059-4f5d-9958-656da6b7b0cc.png)
+## Tasks 
  1. Task 1 : You should build a view which has multiple colors, in gradient way
 
 ![image](https://user-images.githubusercontent.com/44459664/135322765-0957ea61-6832-465e-ba7b-f7a32d4a2f0a.png)
