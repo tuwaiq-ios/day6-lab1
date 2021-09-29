@@ -15,7 +15,8 @@
 
 You should build a view which has multiple colors, in gradient way
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/44459664/135322765-0957ea61-6832-465e-ba7b-f7a32d4a2f0a.png)
+
 
 Hint: Layers do not participate in Auto Layout in the same way that views do. Layers that you create yourself do not automatically update their size when the view size changes, but the view's default layer does. You can tell the system to use a different class for a UIView's layer by overriding its layerClass property.
 
