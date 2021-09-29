@@ -23,14 +23,15 @@ Hint: Layers do not participate in Auto Layout in the same way that views do. La
 
 2. Task 2 : Your contacts are displayed in a table view. Another example is the Mail app. It uses a table view to display your mail boxes and emails. Not only designed for listing textual data, table view allows you to present the data in the form of images. The TED, Google+ and Airbnb are also good examples. Build a simple table-based app using UITableView 
 
-![image](https://user-images.githubusercontent.com/44459664/135340638-cfd6f0c3-baa0-4803-ab43-41059b7bf27a.png)
 
 
-
-3. Task 3: Space out the labels evenly from the top of the safe area to the bottom of the safe area (Figure 3.28). This should
+3. Task 3: Space out the labels evenly from the top of the safe area to the bottom of the safe area. This should
 work on different screen sizes, so you will not be able to hardcode the values.
 
-![image](https://user-images.githubusercontent.com/44459664/135341249-cebe0a0c-1c01-49ba-8d6a-74e3f907d212.png)
+![image](https://user-images.githubusercontent.com/44459664/135343374-64cd232d-6309-4718-8100-6eb7f4ec33a6.png)
+
+
+
 
 
 Hint: You will likely want to use hidden “spacer views” and equal height constraints to achieve this (Figure 3.29).
