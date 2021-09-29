@@ -22,6 +22,15 @@ Hint: Layers do not participate in Auto Layout in the same way that views do. La
 
 ![image](https://user-images.githubusercontent.com/44459664/135349562-2ed461cf-8450-493d-94d8-650c52c42b7d.png)
 
+3. Task 3: All you need you to do is add two  emoji labels to the view. the Figure below shows the expected result. 
+
+Hint, the "smiling face" emoji label should be 33 points away from the top anchor of the safe area, and centered horizontally.
+The "ghost" label has two spacing constraints.
+You can adjust the font size of the label by editing its Font option in the Attributes inspector
+
+![image](https://user-images.githubusercontent.com/44459664/135350837-a8776a09-2db0-4aab-90f1-fd827a021658.png)
+
+
 
 
 
