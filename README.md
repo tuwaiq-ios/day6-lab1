@@ -11,8 +11,13 @@
 8. UITableView
 
 ## Tasks 
- 1. 
+ 1. Task 1 :
 
+You should build a view which has multiple colors, in gradient way
+
+![Uploading image.png…]()
+
+Hint: Layers do not participate in Auto Layout in the same way that views do. Layers that you create yourself do not automatically update their size when the view size changes, but the view's default layer does. You can tell the system to use a different class for a UIView's layer by overriding its layerClass property.
 
 
 
