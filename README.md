@@ -2,25 +2,29 @@
 
 ## Topics 
 1. ViewController
-2. ShowMessageWithSender
-3. UIAlertController
-4. Layout
-5. UILabel
-6. UIButton
-7. Image
-8. UITableView
+2. AlertController
+3. AutoLayout
+4. Label
+5. Button
+6. ImageView
+7. TableView
 
 ## Tasks 
- 1. Task 1: You should build a view which has multiple colors, in gradient way
+1. Task 1: Build a view which has multiple colors, in a gradient way.
+Example:
+
 
 <img width="580" alt="CleanShot 2021-10-02 at 23 25 05@2x" src="https://user-images.githubusercontent.com/34512743/135730902-b987c99d-3c26-48e5-bd6e-c7950ed95de3.png">
 
+   Hint: Layers do not participate in Auto Layout in the same way that views do. Layers that you create yourself do not automatically update their size when the view size changes, but the view's default layer does. You can tell the system to use a different class for a UIView's layer by overriding its layerClass property.
 
-Hint: Layers do not participate in Auto Layout in the same way that views do. Layers that you create yourself do not automatically update their size when the view size changes, but the view's default layer does. You can tell the system to use a different class for a UIView's layer by overriding its layerClass property.
 
-2. Task 2: Your task is to continue to work on the project and create a user interface. When a user taps any of the buttons, the app displays the same Hello World message.
+2. Task 2: 
+   1. Create a list of emojis
+   2. When a user taps any of the emojis display Hello World message with the emoji.
 
 ![image](https://user-images.githubusercontent.com/44459664/135349562-2ed461cf-8450-493d-94d8-650c52c42b7d.png)
+
 
 3. Task 3: All you need you to do is add two emoji labels to the view. the Figure below shows the expected result. 
 
