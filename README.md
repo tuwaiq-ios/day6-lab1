@@ -1,4 +1,4 @@
-# day6-lab1
+# Day6 Lab1
 
 ## Topics 
 1. ViewController
