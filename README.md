@@ -16,15 +16,6 @@ Example:
 
 <img width="580" alt="CleanShot 2021-10-02 at 23 25 05@2x" src="https://user-images.githubusercontent.com/34512743/135730902-b987c99d-3c26-48e5-bd6e-c7950ed95de3.png">
 
-
-2. Task 2: 
-   1. Create a list of emojis
-   2. When a user taps any of the emojis display Hello World message with the emoji.
-
-![image](https://user-images.githubusercontent.com/44459664/135349562-2ed461cf-8450-493d-94d8-650c52c42b7d.png)
-
-
-
 3. Task 3: All you need you to do is add two emoji labels to the view. the Figure below shows the expected result. 
 
 Hint, the "smiling face" emoji label should be 33 points away from the top anchor of the safe area, and centered horizontally.
