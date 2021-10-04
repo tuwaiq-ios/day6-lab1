@@ -31,8 +31,7 @@ class TableViewController : UITableViewController {
 //    func tableView(tableView: UITableView, willDisplayCell cell: UITableViewCell, forRowAtIndexPath indexPath: NSIndexPath) {
 //        cell.contentView.backgroundColor = UIColor(named: cellColors[indexPath.row % cellColors.count])
 //    }
-
-    
+ 
     override func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath){
         
         let alert = UIAlertController(title: "This Is Not My First App ", message: "but you welcome for sure.", preferredStyle: .alert )

@@ -16,6 +16,8 @@
 		1E46B41F2709B60800807388 /* GradientViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E46B41E2709B60800807388 /* GradientViewController.swift */; };
 		1E46B4212709E07E00807388 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E46B4202709E07E00807388 /* TableViewController.swift */; };
 		1E46B4232709E53500807388 /* TabelCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E46B4222709E53500807388 /* TabelCell.swift */; };
+		1E46B427270AF79B00807388 /* CollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E46B426270AF79B00807388 /* CollectionViewController.swift */; };
+		1E46B429270AF7B000807388 /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E46B428270AF7B000807388 /* CollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +32,8 @@
 		1E46B41E2709B60800807388 /* GradientViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientViewController.swift; sourceTree = "<group>"; };
 		1E46B4202709E07E00807388 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 		1E46B4222709E53500807388 /* TabelCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabelCell.swift; sourceTree = "<group>"; };
+		1E46B426270AF79B00807388 /* CollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewController.swift; sourceTree = "<group>"; };
+		1E46B428270AF7B000807388 /* CollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +66,7 @@
 		1E46B40927099D7400807388 /* Lab6 Tasks */ = {
 			isa = PBXGroup;
 			children = (
+				1E46B425270AF77200807388 /* Collection */,
 				1E46B4242709E54800807388 /* Table */,
 				1E46B40A27099D7400807388 /* AppDelegate.swift */,
 				1E46B40C27099D7400807388 /* SceneDelegate.swift */,
@@ -82,6 +87,15 @@
 				1E46B4222709E53500807388 /* TabelCell.swift */,
 			);
 			path = Table;
+			sourceTree = "<group>";
+		};
+		1E46B425270AF77200807388 /* Collection */ = {
+			isa = PBXGroup;
+			children = (
+				1E46B426270AF79B00807388 /* CollectionViewController.swift */,
+				1E46B428270AF7B000807388 /* CollectionViewCell.swift */,
+			);
+			path = Collection;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -157,8 +171,10 @@
 			files = (
 				1E46B41F2709B60800807388 /* GradientViewController.swift in Sources */,
 				1E46B40F27099D7400807388 /* ViewController.swift in Sources */,
+				1E46B429270AF7B000807388 /* CollectionViewCell.swift in Sources */,
 				1E46B40B27099D7400807388 /* AppDelegate.swift in Sources */,
 				1E46B4212709E07E00807388 /* TableViewController.swift in Sources */,
+				1E46B427270AF79B00807388 /* CollectionViewController.swift in Sources */,
 				1E46B4232709E53500807388 /* TabelCell.swift in Sources */,
 				1E46B40D27099D7400807388 /* SceneDelegate.swift in Sources */,
 			);
