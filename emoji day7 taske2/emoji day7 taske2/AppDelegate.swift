@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  project day 6
+//  emoji day7 taske2
 //
 //  Created by MacBook on 27/02/1443 AH.
 //

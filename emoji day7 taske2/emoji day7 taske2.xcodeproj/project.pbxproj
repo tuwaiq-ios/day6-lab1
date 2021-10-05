@@ -7,29 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		FA420757270A5DAE00E1378F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA420756270A5DAE00E1378F /* AppDelegate.swift */; };
-		FA420759270A5DAE00E1378F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA420758270A5DAE00E1378F /* SceneDelegate.swift */; };
-		FA42075B270A5DAE00E1378F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA42075A270A5DAE00E1378F /* ViewController.swift */; };
-		FA42075E270A5DAE00E1378F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA42075C270A5DAE00E1378F /* Main.storyboard */; };
-		FA420760270A5DAF00E1378F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA42075F270A5DAF00E1378F /* Assets.xcassets */; };
-		FA420763270A5DAF00E1378F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA420761270A5DAF00E1378F /* LaunchScreen.storyboard */; };
-		FA42076B270A64CB00E1378F /* layout.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA42076A270A64CB00E1378F /* layout.swift */; };
+		FA38834E270B1E0900B3CE1B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA38834D270B1E0900B3CE1B /* AppDelegate.swift */; };
+		FA388350270B1E0900B3CE1B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA38834F270B1E0900B3CE1B /* SceneDelegate.swift */; };
+		FA388355270B1E0900B3CE1B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA388353270B1E0900B3CE1B /* Main.storyboard */; };
+		FA388357270B1E0A00B3CE1B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA388356270B1E0A00B3CE1B /* Assets.xcassets */; };
+		FA38835A270B1E0A00B3CE1B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA388358270B1E0A00B3CE1B /* LaunchScreen.storyboard */; };
+		FA388362270B1E7E00B3CE1B /* viewcontroller class.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA388361270B1E7E00B3CE1B /* viewcontroller class.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		FA420753270A5DAE00E1378F /* project day 6.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "project day 6.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		FA420756270A5DAE00E1378F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		FA420758270A5DAE00E1378F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		FA42075A270A5DAE00E1378F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		FA42075D270A5DAE00E1378F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		FA42075F270A5DAF00E1378F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		FA420762270A5DAF00E1378F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		FA420764270A5DAF00E1378F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		FA42076A270A64CB00E1378F /* layout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = layout.swift; sourceTree = "<group>"; };
+		FA38834A270B1E0900B3CE1B /* emoji day7 taske2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "emoji day7 taske2.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FA38834D270B1E0900B3CE1B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		FA38834F270B1E0900B3CE1B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		FA388354270B1E0900B3CE1B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		FA388356270B1E0A00B3CE1B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		FA388359270B1E0A00B3CE1B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		FA38835B270B1E0A00B3CE1B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FA388361270B1E7E00B3CE1B /* viewcontroller class.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "viewcontroller class.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		FA420750270A5DAE00E1378F /* Frameworks */ = {
+		FA388347270B1E0900B3CE1B /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -39,73 +37,72 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		FA42074A270A5DAE00E1378F = {
+		FA388341270B1E0900B3CE1B = {
 			isa = PBXGroup;
 			children = (
-				FA42076A270A64CB00E1378F /* layout.swift */,
-				FA420755270A5DAE00E1378F /* project day 6 */,
-				FA420754270A5DAE00E1378F /* Products */,
+				FA38834C270B1E0900B3CE1B /* emoji day7 taske2 */,
+				FA38834B270B1E0900B3CE1B /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		FA420754270A5DAE00E1378F /* Products */ = {
+		FA38834B270B1E0900B3CE1B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				FA420753270A5DAE00E1378F /* project day 6.app */,
+				FA38834A270B1E0900B3CE1B /* emoji day7 taske2.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		FA420755270A5DAE00E1378F /* project day 6 */ = {
+		FA38834C270B1E0900B3CE1B /* emoji day7 taske2 */ = {
 			isa = PBXGroup;
 			children = (
-				FA420756270A5DAE00E1378F /* AppDelegate.swift */,
-				FA420758270A5DAE00E1378F /* SceneDelegate.swift */,
-				FA42075A270A5DAE00E1378F /* ViewController.swift */,
-				FA42075C270A5DAE00E1378F /* Main.storyboard */,
-				FA42075F270A5DAF00E1378F /* Assets.xcassets */,
-				FA420761270A5DAF00E1378F /* LaunchScreen.storyboard */,
-				FA420764270A5DAF00E1378F /* Info.plist */,
+				FA38834D270B1E0900B3CE1B /* AppDelegate.swift */,
+				FA38834F270B1E0900B3CE1B /* SceneDelegate.swift */,
+				FA388353270B1E0900B3CE1B /* Main.storyboard */,
+				FA388356270B1E0A00B3CE1B /* Assets.xcassets */,
+				FA388358270B1E0A00B3CE1B /* LaunchScreen.storyboard */,
+				FA38835B270B1E0A00B3CE1B /* Info.plist */,
+				FA388361270B1E7E00B3CE1B /* viewcontroller class.swift */,
 			);
-			path = "project day 6";
+			path = "emoji day7 taske2";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		FA420752270A5DAE00E1378F /* project day 6 */ = {
+		FA388349270B1E0900B3CE1B /* emoji day7 taske2 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = FA420767270A5DAF00E1378F /* Build configuration list for PBXNativeTarget "project day 6" */;
+			buildConfigurationList = FA38835E270B1E0A00B3CE1B /* Build configuration list for PBXNativeTarget "emoji day7 taske2" */;
 			buildPhases = (
-				FA42074F270A5DAE00E1378F /* Sources */,
-				FA420750270A5DAE00E1378F /* Frameworks */,
-				FA420751270A5DAE00E1378F /* Resources */,
+				FA388346270B1E0900B3CE1B /* Sources */,
+				FA388347270B1E0900B3CE1B /* Frameworks */,
+				FA388348270B1E0900B3CE1B /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "project day 6";
-			productName = "project day 6";
-			productReference = FA420753270A5DAE00E1378F /* project day 6.app */;
+			name = "emoji day7 taske2";
+			productName = "emoji day7 taske2";
+			productReference = FA38834A270B1E0900B3CE1B /* emoji day7 taske2.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		FA42074B270A5DAE00E1378F /* Project object */ = {
+		FA388342270B1E0900B3CE1B /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1300;
 				LastUpgradeCheck = 1300;
 				TargetAttributes = {
-					FA420752270A5DAE00E1378F = {
+					FA388349270B1E0900B3CE1B = {
 						CreatedOnToolsVersion = 13.0;
 					};
 				};
 			};
-			buildConfigurationList = FA42074E270A5DAE00E1378F /* Build configuration list for PBXProject "project day 6" */;
+			buildConfigurationList = FA388345270B1E0900B3CE1B /* Build configuration list for PBXProject "emoji day7 taske2" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -113,56 +110,55 @@
 				en,
 				Base,
 			);
-			mainGroup = FA42074A270A5DAE00E1378F;
-			productRefGroup = FA420754270A5DAE00E1378F /* Products */;
+			mainGroup = FA388341270B1E0900B3CE1B;
+			productRefGroup = FA38834B270B1E0900B3CE1B /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				FA420752270A5DAE00E1378F /* project day 6 */,
+				FA388349270B1E0900B3CE1B /* emoji day7 taske2 */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		FA420751270A5DAE00E1378F /* Resources */ = {
+		FA388348270B1E0900B3CE1B /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FA420763270A5DAF00E1378F /* LaunchScreen.storyboard in Resources */,
-				FA420760270A5DAF00E1378F /* Assets.xcassets in Resources */,
-				FA42075E270A5DAE00E1378F /* Main.storyboard in Resources */,
+				FA38835A270B1E0A00B3CE1B /* LaunchScreen.storyboard in Resources */,
+				FA388357270B1E0A00B3CE1B /* Assets.xcassets in Resources */,
+				FA388355270B1E0900B3CE1B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		FA42074F270A5DAE00E1378F /* Sources */ = {
+		FA388346270B1E0900B3CE1B /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FA42075B270A5DAE00E1378F /* ViewController.swift in Sources */,
-				FA42076B270A64CB00E1378F /* layout.swift in Sources */,
-				FA420757270A5DAE00E1378F /* AppDelegate.swift in Sources */,
-				FA420759270A5DAE00E1378F /* SceneDelegate.swift in Sources */,
+				FA38834E270B1E0900B3CE1B /* AppDelegate.swift in Sources */,
+				FA388362270B1E7E00B3CE1B /* viewcontroller class.swift in Sources */,
+				FA388350270B1E0900B3CE1B /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		FA42075C270A5DAE00E1378F /* Main.storyboard */ = {
+		FA388353270B1E0900B3CE1B /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				FA42075D270A5DAE00E1378F /* Base */,
+				FA388354270B1E0900B3CE1B /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		FA420761270A5DAF00E1378F /* LaunchScreen.storyboard */ = {
+		FA388358270B1E0A00B3CE1B /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				FA420762270A5DAF00E1378F /* Base */,
+				FA388359270B1E0A00B3CE1B /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -170,7 +166,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		FA420765270A5DAF00E1378F /* Debug */ = {
+		FA38835C270B1E0A00B3CE1B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -231,7 +227,7 @@
 			};
 			name = Debug;
 		};
-		FA420766270A5DAF00E1378F /* Release */ = {
+		FA38835D270B1E0A00B3CE1B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -286,7 +282,7 @@
 			};
 			name = Release;
 		};
-		FA420768270A5DAF00E1378F /* Debug */ = {
+		FA38835F270B1E0A00B3CE1B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -294,7 +290,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "project day 6/Info.plist";
+				INFOPLIST_FILE = "emoji day7 taske2/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -305,7 +301,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.FA.project-day-6";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.FA.emoji-day7-taske2";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -313,7 +309,7 @@
 			};
 			name = Debug;
 		};
-		FA420769270A5DAF00E1378F /* Release */ = {
+		FA388360270B1E0A00B3CE1B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -321,7 +317,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "project day 6/Info.plist";
+				INFOPLIST_FILE = "emoji day7 taske2/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -332,7 +328,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.FA.project-day-6";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.FA.emoji-day7-taske2";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -343,25 +339,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		FA42074E270A5DAE00E1378F /* Build configuration list for PBXProject "project day 6" */ = {
+		FA388345270B1E0900B3CE1B /* Build configuration list for PBXProject "emoji day7 taske2" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				FA420765270A5DAF00E1378F /* Debug */,
-				FA420766270A5DAF00E1378F /* Release */,
+				FA38835C270B1E0A00B3CE1B /* Debug */,
+				FA38835D270B1E0A00B3CE1B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		FA420767270A5DAF00E1378F /* Build configuration list for PBXNativeTarget "project day 6" */ = {
+		FA38835E270B1E0A00B3CE1B /* Build configuration list for PBXNativeTarget "emoji day7 taske2" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				FA420768270A5DAF00E1378F /* Debug */,
-				FA420769270A5DAF00E1378F /* Release */,
+				FA38835F270B1E0A00B3CE1B /* Debug */,
+				FA388360270B1E0A00B3CE1B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = FA42074B270A5DAE00E1378F /* Project object */;
+	rootObject = FA388342270B1E0900B3CE1B /* Project object */;
 }
